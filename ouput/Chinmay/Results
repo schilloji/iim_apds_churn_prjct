@@ -1,1 +1,5 @@
 
+Results Summary: 
+
+1. Logistic Regression: Regression done with all fields: Results: AUC: 0.6233796
+2. Based on the logistic regression, signfcant fields were seelcted and was fed to a NN with 2 hidden layers with 10 and 3 neurons respectively: AUC: 0.6700727
