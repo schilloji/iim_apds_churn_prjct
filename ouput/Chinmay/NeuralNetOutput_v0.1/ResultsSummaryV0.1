@@ -1,12 +1,17 @@
+Method: 
+========
+Based on the initial Logistic Regression with all fields, we identified the features that have P value <0.01 (ie. Signficant at 99.99%). We used only those features in  tarining the Neural Network. With the entire feature set, the Neural Network training was not converging in a resonable time frame and hence we used the reduced set of features.We used 'neuralnet' package (Fritsch,  Guenther, Wright, Suling &  Mueller) from CRAN to deploy the Neural Network.  The no. of input fetaures were 27. We used 2 hidden layers with 10 and 3 neurons respectively. We tried various architectures so that the training converges in a resoanbley good timeframe. The input dataset was split with 70:30 for training and test datset.
 
-Formula: churn ~ rev_Mean + totmrc_Mean + ovrmou_Mean + roam_Mean + drop_vce_Mean + threeway_Mean + iwylis_vce_Mean + months + uniqsubs + totcalls + hnd_price + phones + lor + eqpdays + fe_mean_per_minute_charge + fe_tot_revenue_per_call + fe_tot_mou_per_call + fe_tot_revenue_adj + asl_flag_N + crclscod_BA + crclscod_EA + crclscod_ZA + ethnic_O  + kid16_17_U  + prizm_social_one_Missing + prizm_social_one_R + prizm_social_one_T
+The features that were selected for Neural Network training are as follows:
+================================================================================
+churn ~ rev_Mean + totmrc_Mean + ovrmou_Mean + roam_Mean + drop_vce_Mean + threeway_Mean + iwylis_vce_Mean + months + uniqsubs + totcalls + hnd_price + phones + lor + eqpdays + fe_mean_per_minute_charge + fe_tot_revenue_per_call + fe_tot_mou_per_call + fe_tot_revenue_adj + asl_flag_N + crclscod_BA + crclscod_EA + crclscod_ZA + ethnic_O  + kid16_17_U  + prizm_social_one_Missing + prizm_social_one_R + prizm_social_one_T
 
 Results:
 ==================
 
 ROC AUC: 0.65101917
 
-Confusion Matrix and Statistics
+Confusion Matrix and Statistics (at threshold = 0.5)
 
           Reference
 Prediction    0    1
