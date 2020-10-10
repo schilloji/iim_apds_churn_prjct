@@ -1,0 +1,5 @@
+#Gloab and Local Interpretation
+https://www.onclick360.com/interpretable-machine-learning-with-lime-eli5-shap-interpret-ml/
+https://parker-fitzgerald.com/wp-content/uploads/2019/12/ML-Interpretability-SHAP-example.pdf
+
+
