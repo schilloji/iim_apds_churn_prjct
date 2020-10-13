@@ -1,0 +1,130 @@
+feature,importance,category
+change_mou,6194,Bill
+months,5778,Customer Mobile
+fe_mean_per_minute_charge,4923,Bill
+totmrc_Mean,4871,Bill
+eqpdays,4740,Customer Mobile
+change_rev,3406,Bill
+mou_Mean,3378,Call
+hnd_price,3066,Customer Mobile
+fe_tot_revenue_per_call,3060,Bill
+lor,2964,Customer Mobile
+ovrmou_Mean,2661,Call
+totcalls,2460,Call
+rev_Mean,2441,Bill
+fe_tot_revenue_adj,2322,Bill
+fe_tot_mou_per_call,2147,Call
+fe_tot_mou_adj,1944,Call
+iwylis_vce_Mean,1672,Call
+unan_vce_Mean,1628,Call
+drop_vce_Mean,1585,Call
+totrev,1400,Bill
+asl_flag_N,1175,Bill
+custcare_Mean,1053,Customer Care
+uniqsubs,1046,Customer Personal
+crclscod_EA,1021,Customer Personal
+refurb_new_N,972,Customer Personal
+roam_Mean,958,Call
+income,916,Customer Personal
+phones,876,Customer Personal
+numbcars,858,Customer Personal
+blck_vce_Mean,700,Call
+ethnic_Z,639,Customer Personal
+area_NORTHWEST_ROCKY_MOUNTAIN_AREA,529,Customer Personal
+adults,502,Customer Personal
+hnd_webcap_Missing,472,Customer Mobile
+hnd_webcap_WCMB,444,Customer Mobile
+callwait_Mean,428,Call
+dualband_Y,413,Customer Mobile
+ethnic_O,405,Customer Personal
+HHstatin_Missing,388,Customer Personal
+marital_U,352,Customer Personal
+actvsubs,343,Customer Personal
+crclscod_CA,293,Customer Personal
+new_cell_U,285,Customer Personal
+dwllsize_A,271,Customer Personal
+crclscod_AA,241,Customer Personal
+da_Mean,241,Call
+ownrent_O,220,Customer Personal
+kid16_17_Y,183,Customer Personal
+crclscod_DA,183,Customer Personal
+ethnic_H,172,Customer Personal
+prizm_social_one_U,165,Customer Personal
+ethnic_B,154,Customer Personal
+area_SOUTHWEST_AREA,146,Customer Personal
+area_DC_MARYLAND_VIRGINIA_AREA,142,Customer Personal
+area_NORTH_FLORIDA_AREA,140,Customer Personal
+ethnic_N,136,Customer Personal
+crclscod_B,132,Customer Personal
+infobase_Missing,129,Customer Personal
+prizm_social_one_S,124,Customer Personal
+crclscod_A,121,Customer Personal
+HHstatin_G,119,Customer Personal
+truck,118,Customer Mobile
+prizm_social_one_T,117,Customer Personal
+kid0_2_Y,117,Customer Personal
+area_SOUTH_FLORIDA_AREA,116,Customer Personal
+creditcd_N,107,Customer Personal
+threeway_Mean,105,Call
+HHstatin_I,101,Customer Personal
+prizm_social_one_Missing,100,Customer Personal
+kid3_5_Y,97,Customer Personal
+HHstatin_C,97,Customer Personal
+marital_M,97,Customer Personal
+crclscod_BA,92,Customer Personal
+area_MIDWEST_AREA,87,Customer Personal
+area_OHIO_AREA,78,Customer Personal
+dwllsize_Missing,76,Customer Personal
+hnd_webcap_WC,73,Customer Personal
+marital_S,71,Customer Personal
+ethnic_J,71,Customer Personal
+dualband_N,71,Customer Personal
+new_cell_Y,69,Customer Personal
+ethnic_S,67,Customer Personal
+kid16_17_U,65,Customer Personal
+kid6_10_U,62,Customer Personal
+dwllsize_J,61,Customer Personal
+prizm_social_one_R,54,Customer Personal
+dualband_T,53,Customer Personal
+area_HOUSTON_AREA,52,Customer Personal
+area_PHILADELPHIA_AREA,51,Customer Personal
+kid11_15_Y,50,Customer Personal
+area_NEW_YORK_CITY_AREA,49,Customer Personal
+area_CENTRAL_SOUTH_TEXAS_AREA,48,Customer Personal
+kid0_2_U,48,Customer Personal
+ethnic_G,44,Customer Personal
+crclscod_ZA,44,Customer Personal
+kid11_15_U,39,Customer Personal
+ownrent_Missing,39,Customer Personal
+plcd_dat_Mean,38,Call
+area_LOS_ANGELES_AREA,36,Customer Personal
+marital_A,30,Customer Personal
+creditcd_Y,29,Customer Personal
+dwlltype_M,28,Customer Personal
+HHstatin_B,27,Customer Personal
+HHstatin_A,26,Customer Personal
+area_CALIFORNIA_NORTH_AREA,24,Customer Personal
+new_cell_N,23,Customer Personal
+area_CHICAGO_AREA,22,Customer Personal
+kid6_10_Y,21,Customer Personal
+dwllsize_O,20,Customer Personal
+area_GREAT_LAKES_AREA,20,Customer Personal
+crclscod_C,20,Customer Personal
+area_ATLANTIC_SOUTH_AREA,18,Customer Personal
+kid3_5_U,18,Customer Personal
+dwllsize_B,17,Customer Personal
+dwllsize_C,17,Customer Personal
+area_DALLAS_AREA,16,Customer Personal
+prizm_social_one_C,16,Customer Personal
+ownrent_R,16,Customer Personal
+ethnic_I,16,Customer Personal
+marital_B,15,Customer Personal
+ethnic_R,14,Customer Personal
+ethnic_U,14,Customer Personal
+ethnic_F,12,Customer Personal
+creditcd_Missing,11,Customer Personal
+area_NEW_ENGLAND_AREA,8,Customer Personal
+infobase_M,7,Customer Personal
+area_TENNESSEE_AREA,4,Customer Personal
+refurb_new_R,3,Customer Personal
+asl_flag_Y,1,Customer Personal
