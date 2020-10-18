@@ -1,0 +1,130 @@
+feature,laymen_name
+actvsubs,Number of active subscribers in household
+adults,Number of adults in household
+area_ATLANTIC_SOUTH_AREA,Geogrpahic area belongs/not belongs to ATLANTIC_SOUTH_AREA
+area_CALIFORNIA_NORTH_AREA,Geogrpahic area belongs/not belongs to CALIFORNIA_NORTH_AREA
+area_CENTRAL_SOUTH_TEXAS_AREA,Geogrpahic area belongs/not belongs to CENTRAL_SOUTH_TEXAS_AREA
+area_CHICAGO_AREA,Geogrpahic area belongs/not belongs to CHICAGO_AREA
+area_DALLAS_AREA,Geogrpahic area belongs/not belongs to DALLAS_AREA
+area_DC_MARYLAND_VIRGINIA_AREA,Geogrpahic area belongs/not belongs to DC_MARYLAND_VIRGINIA_AREA
+area_GREAT_LAKES_AREA,Geogrpahic area belongs/not belongs to GREAT_LAKES_AREA
+area_HOUSTON_AREA,Geogrpahic area belongs/not belongs to HOUSTON_AREA
+area_LOS_ANGELES_AREA,Geogrpahic area belongs/not belongs to LOS_ANGELES_AREA
+area_MIDWEST_AREA,Geogrpahic area belongs/not belongs to MIDWEST_AREA
+area_NEW_ENGLAND_AREA,Geogrpahic area belongs/not belongs to NEW_ENGLAND_AREA
+area_NEW_YORK_CITY_AREA,Geogrpahic area belongs/not belongs to NEW_YORK_CITY_AREA
+area_NORTH_FLORIDA_AREA,Geogrpahic area belongs/not belongs to NORTH_FLORIDA_AREA
+area_NORTHWEST_ROCKY_MOUNTAIN_AREA,Geogrpahic area belongs/not belongs to NORTHWEST_ROCKY_MOUNTAIN_AREA
+area_OHIO_AREA,Geogrpahic area belongs/not belongs to OHIO_AREA
+area_PHILADELPHIA_AREA,Geogrpahic area belongs/not belongs to PHILADELPHIA_AREA
+area_SOUTH_FLORIDA_AREA,Geogrpahic area belongs/not belongs to SOUTH_FLORIDA_AREA
+area_SOUTHWEST_AREA,Geogrpahic area belongs/not belongs to SOUTHWEST_AREA
+area_TENNESSEE_AREA,Geogrpahic area belongs/not belongs to TENNESSEE_AREA
+asl_flag_N,Account spending limit belongs/not belongs to No
+asl_flag_Y,Account spending limit belongs/not belongs to Yes
+blck_vce_Mean,Mean number of blocked (failed) voice calls
+callwait_Mean,Mean number of call waiting calls
+change_mou,Percentage change in monthly minutes of use vs previous three month average
+change_rev,Percentage change in monthly revenue vs previous three month average
+crclscod_A,Credit class code belongs/not belongs to A
+crclscod_AA,Credit class code belongs/not belongs to AA
+crclscod_B,Credit class code belongs/not belongs to B
+crclscod_BA,Credit class code belongs/not belongs to BA
+crclscod_C,Credit class code belongs/not belongs to C
+crclscod_CA,Credit class code belongs/not belongs to CS
+crclscod_DA,Credit class code belongs/not belongs to DA
+crclscod_EA,Credit class code belongs/not belongs to EA
+crclscod_ZA,Credit class code belongs/not belongs to ZA
+creditcd_Missing,Credit class code belongs/not belongs to NA
+creditcd_N,Credit card indicator belongs/not belongs to No
+creditcd_Y,Credit card indicator belongs/not belongs to Yes
+custcare_Mean,Mean number of customer care calls
+da_Mean,Mean number of directory assisted calls
+drop_vce_Mean,Mean number of dropped (failed) voice calls
+dualband_N,Dualband belongs/not belongs to N
+dualband_T,Dualband belongs/not belongs to T
+dualband_Y,Dualband belongs/not belongs to Y
+dwllsize_A,Dwelling size belongs/not belongs to A
+dwllsize_B,Dwelling size belongs/not belongs to B
+dwllsize_C,Dwelling size belongs/not belongs to C
+dwllsize_J,Dwelling size belongs/not belongs to J
+dwllsize_Missing,Dwelling size belongs/not belongs to NA
+dwllsize_O,Dwelling size belongs/not belongs to O
+dwlltype_M,Dwelling size belongs/not belongs to M
+eqpdays,Number of days (age) of current equipment
+ethnic_B,Ethnicity roll-up code belongs/not belongs to B
+ethnic_F,Ethnicity roll-up code belongs/not belongs to F
+ethnic_G,Ethnicity roll-up code belongs/not belongs to G
+ethnic_H,Ethnicity roll-up code belongs/not belongs to H
+ethnic_I,Ethnicity roll-up code belongs/not belongs to I
+ethnic_J,Ethnicity roll-up code belongs/not belongs to J
+ethnic_N,Ethnicity roll-up code belongs/not belongs to N
+ethnic_O,Ethnicity roll-up code belongs/not belongs to O
+ethnic_R,Ethnicity roll-up code belongs/not belongs to R
+ethnic_S,Ethnicity roll-up code belongs/not belongs to S
+ethnic_U,Ethnicity roll-up code belongs/not belongs to U
+ethnic_Z,Ethnicity roll-up code belongs/not belongs to Z
+fe_mean_per_minute_charge,Mean Talktime per unit Charge
+fe_tot_mou_adj,Total minutes of use adjusted
+fe_tot_mou_per_call,Mean Total minutes of use per call
+fe_tot_revenue_adj,Total Revenue Adjustment
+fe_tot_revenue_per_call,Mean total revenue per call
+HHstatin_A,Premier household status indicator belongs/not belongs to A
+HHstatin_B,Premier household status indicator belongs/not belongs to B
+HHstatin_C,Premier household status indicator belongs/not belongs to C
+HHstatin_G,Premier household status indicator belongs/not belongs to G
+HHstatin_I,Premier household status indicator belongs/not belongs to I
+HHstatin_Missing,Premier household status indicator belongs/not belongs to NA
+hnd_price,Current handset price
+hnd_webcap_Missing,Handset web capability belongs/not belongs  NA
+hnd_webcap_WC,Handset web capability belongs/not belongs  WC
+hnd_webcap_WCMB,Handset web capability belongs/not belongs NA
+income,Estimated income
+infobase_M,InfoBase match belongs/not belongs to M
+infobase_Missing,InfoBase match belongs/not belongs to NA
+iwylis_vce_Mean,iwylis voice mean
+kid0_2_U,Child 0 - 2 years of age in household belongs/not belongs to U
+kid0_2_Y,Child 0 - 2 years of age in household belongs/not belongs to Y
+kid11_15_U,Child 11 - 15 years of age in household belongs/not belongs to U
+kid11_15_Y,Child 11 - 15 years of age in household belongs/not belongs to Y
+kid16_17_U,Child 16 - 17 years of age in household belongs/not belongs to U
+kid16_17_Y,Child 16 - 17 years of age in household belongs/not belongs to Y
+kid3_5_U,Child 3 - 5 years of age in household belongs/not belongs to U
+kid3_5_Y,Child 3 - 5 years of age in household belongs/not belongs to Y
+kid6_10_U,Child 6 - 10 years of age in household belongs/not belongs to U
+kid6_10_Y,Child 6 - 10 years of age in household belongs/not belongs to Y
+lor,Length of residence
+marital_A,Marital Status belongs/not belongs to A
+marital_B,Marital Status belongs/not belongs to B
+marital_M,Marital Status belongs/not belongs to M
+marital_S,Marital Status belongs/not belongs to S
+marital_U,Marital Status belongs/not belongs to U
+months,Total number of months in service
+mou_Mean,Mean number of monthly minutes of use
+new_cell_N,New cell phone user belongs/not belongs to N
+new_cell_U,New cell phone user belongs/not belongs to U
+new_cell_Y,New cell phone user belongs/not belongs to Y
+numbcars,Known number of vehicles
+ovrmou_Mean,Mean overage minutes of use
+ownrent_Missing,Home owner/renter status belongs/not belongs to NA
+ownrent_O,Home owner/renter status belongs/not belongs to O
+ownrent_R,Home owner/renter status belongs/not belongs to R
+phones,Number of handsets issued
+plcd_dat_Mean,Mean number of attempted data calls placed
+prizm_social_one_C,Social group letter only belongs/not belongs to C
+prizm_social_one_Missing,Social group letter only belongs/not belongs to NA
+prizm_social_one_R,Social group letter only belongs/not belongs to R
+prizm_social_one_S,Social group letter only belongs/not belongs to S
+prizm_social_one_T,Social group letter only belongs/not belongs to T
+prizm_social_one_U,Social group letter only belongs/not belongs to U
+refurb_new_N,Handset: refurbished or new belongs/not belongs to N
+refurb_new_R,Handset: refurbished or new belongs/not belongs to R
+rev_Mean,Mean monthly revenue (charge amount)
+roam_Mean,Mean number of roaming calls
+threeway_Mean,Mean number of three way calls
+totcalls,Total number of calls over the life of the customer
+totmrc_Mean,Mean total monthly recurring charge
+totrev,Total revenue
+truck,Truck indicator
+unan_vce_Mean,Mean number of unanswered voice calls
+uniqsubs,Number of unique subscribers in the household
